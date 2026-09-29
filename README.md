@@ -12,6 +12,10 @@ Survey Link:									https://www.research.net/r/trailheadacademy
 
 Survey ID:										< survey ID >
 
+VM link: https://use.cloudshare.com/Class/brbks
+
+passphrase: Moe the Trustworthy Kiwi
+
 -------------------------------------------------------------------------------------------------------------------
 Zoom Link: [Zoom Link](https://salesforce-training.zoom.us/j/82013263418?pwd=r8s8PnabBAFtCTb5ewkb7mUizTx11Y.1)
 
