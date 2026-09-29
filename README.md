@@ -60,6 +60,9 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |The Hitter|Mark Erelli||
 |My Walking Stick|Leon Redbone||
 |The Streetbeater|Quincy Jones|TV theme from Sanford & Son|
+|My Rifle, My Pony and Me|Ricky Nelson and Dean Martin||
+|Smooth Criminal|Luca Stricagnoli||
+|Sixteen Tons|Geoff Castellucci||
 
 
 
