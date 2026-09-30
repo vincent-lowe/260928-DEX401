@@ -66,14 +66,8 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |This Old Town|Nanci Griffith||
 |City of New Orleans|Arlo Guthrie||
 |We Don't Talk About Bruno|Voiceplay|Acapella cover song from Encanto|
-
-
-
-
-
-
-
-
+|Hello Goodbye|The Beatles||
+|Hotel California|Moyun|cover played on traditional Chinese Guzheng|
 
 
 
